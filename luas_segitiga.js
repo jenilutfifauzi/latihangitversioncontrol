@@ -13,5 +13,5 @@ function calculateArea() {
     const area = 0.5 * base * height;
 
     // Tampilkan hasil
-    document.getElementById('area').textContent = `${area.toFixed(2)} satuan²`;
+    document.getElementById('area').textContent = `${area.toFixed(2)}`;
 }
